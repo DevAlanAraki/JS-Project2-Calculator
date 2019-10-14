@@ -1,9 +1,12 @@
 # JS-Project1-Calculator
 
+<b>PROJETO</b>
+
 Calculator developed in course of JavaScript.
 
-
-<b>PROJETO</b>
+- Performing all button functions correctly.
+- Calculator with svg layout.
+- Calculator with date and time according to the user's device.
 
 <img src="https://i.ibb.co/0rsbQqn/Screenshot-1.png">
 
