@@ -12,3 +12,4 @@ Calculator developed in course of JavaScript.
 
 <img src="https://i.ibb.co/0rsbQqn/Screenshot-1.png">
 
+By Alan T. Araki.
